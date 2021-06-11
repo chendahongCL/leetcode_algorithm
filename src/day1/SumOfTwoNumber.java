@@ -35,4 +35,5 @@ public class SumOfTwoNumber {
         System.out.println(hashTableSolution(new int[]{1, 2, 3, 4, 5}, 7)[0]);
         System.out.println(hashTableSolution(new int[]{1, 2, 3, 4, 5}, 7)[1]);
     }
+
 }
